@@ -1,5 +1,5 @@
-﻿# 😵LVLM-Hallucination
-We can split the hallucination in LVLMs into Three directions, including Detect, Evaluation, Mitigate.
+﻿# 😵Multi-Modal LLM Hallucination
+We can split the hallucination in Multi-Modal LLM into Three directions, including Detect, Evaluation, Mitigate.
 
 ## 🧐Detect
 |  Name   | Link  | Github|
