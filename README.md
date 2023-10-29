@@ -7,12 +7,12 @@ We can split the hallucination in Multi-Modal LLM into Three directions, includi
 | Detecting and Preventing Hallucinations in Large Vision Language Models  | [![Static Badge](https://img.shields.io/badge/2308.06394-red?logo=arxiv)](https://arxiv.org/abs/2308.06394) | ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)|
 
 ## 🤓Evaluation
-|  Name   | Link  | Github|
-|  ----  | ----  | ----|
-| POPE:  Evaluating Object Hallucination in Large Vision-Language Models   |  [![Static Badge](https://img.shields.io/badge/2305.10355-red?logo=arxiv)](https://arxiv.org/abs/2305.10355) |[![](https://img.shields.io/badge/POPE-black?logo=github)](https://github.com/AoiDragon/POPE)|
+|  Name   | Link  | Github|Tags|
+|  ----  | ----  | ----|----|
+| POPE:  Evaluating Object Hallucination in Large Vision-Language Models   |  [![Static Badge](https://img.shields.io/badge/2305.10355-red?logo=arxiv)](https://arxiv.org/abs/2305.10355) |[![](https://img.shields.io/badge/POPE-black?logo=github)](https://github.com/AoiDragon/POPE)|![Static Badge](https://img.shields.io/badge/Object-green)|
 | Evaluation and Analysis of Hallucination in Large Vision-Language Models  |  [![Static Badge](https://img.shields.io/badge/2308.15126-red?logo=arxiv)](https://arxiv.org/abs/2308.15126) | ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)|
-| HalluQA: Evaluating Hallucinations in Chinese Large Language Models| [![Static Badge](https://img.shields.io/badge/2310.03368-red?logo=arxiv)](https://arxiv.org/abs/2310.03368) | ![](https://img.shields.io/badge/not_release-black?logo=github)|
-| HallusionBench: An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models  |  [![Static Badge](https://img.shields.io/badge/2310.14566-red?logo=arxiv)](https://arxiv.org/abs/2310.14566) |[![](https://img.shields.io/badge/HallusionBench-black?logo=github)](https://github.com/tianyi-lab/HallusionBench)|
+| HalluQA: Evaluating Hallucinations in Chinese Large Language Models| [![Static Badge](https://img.shields.io/badge/2310.03368-red?logo=arxiv)](https://arxiv.org/abs/2310.03368) | ![](https://img.shields.io/badge/not_release-black?logo=github)|![Static Badge](https://img.shields.io/badge/Knowledge-green)|
+| HallusionBench: An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models  |  [![Static Badge](https://img.shields.io/badge/2310.14566-red?logo=arxiv)](https://arxiv.org/abs/2310.14566) |[![](https://img.shields.io/badge/HallusionBench-black?logo=github)](https://github.com/tianyi-lab/HallusionBench)|![Static Badge](https://img.shields.io/badge/Knowledge-green)|
 ## 😋Mitigate
 |  Name   | Link  | Github|
 |  ----  | ----  | ----|
