@@ -29,11 +29,15 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
 4. **HallE-Switch** : Rethinking and Controlling Object Existence Hallucinations in Large Vision-Language Models for Detailed Caption, (Zhai et al. 2023)
    - [![Static Badge](https://img.shields.io/badge/2310.01779-red?logo=arxiv)](https://arxiv.org/pdf/2310.01779) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
    - Discriminative Task: Object Existence
-5. **Bingo** : Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges
+5. **NOPE**: Negative Object Presence Evaluation (NOPE) to Measure Object Hallucination in Vision-Language Models, (Lovenia et al.)
+   - [![Static Badge](https://img.shields.io/badge/2310.05338-red?logo=arxiv)](https://arxiv.org/abs/2310.05338) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+6. **Bingo** : Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges, (Cui et al.)
    - [![Static Badge](https://img.shields.io/badge/2311.03287-red?logo=arxiv)](https://arxiv.org/pdf/2311.03287) [![](https://img.shields.io/badge/Bingo-black?logo=github)](https://github.com/gzcch/Bingo)
-6. **FaithScore** : Evaluating Hallucinations in Large Vision-Language Models
+7. **FaithScore** : Evaluating Hallucinations in Large Vision-Language Models, (Jing et al.)
    - [![Static Badge](https://img.shields.io/badge/2311.01477-red?logo=arxiv)](https://arxiv.org/pdf/2311.01477)  [![](https://img.shields.io/badge/FaithScore-black?logo=github)](https://github.com/bcdnlp/faithscore)
-7. **AMBER** : An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation, (Wang et al.)
+   - Generative Task: Object Existence, Attribute, Relationship, 180 VQA pairs
+   - open-end find-grained evaluation, need other models to help evaluation
+8. **AMBER** : An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation, (Wang et al.)
     - [![Static Badge](https://img.shields.io/badge/2311.07397-red?logo=arxiv)](https://arxiv.org/pdf/2311.07397)  [![](https://img.shields.io/badge/AMBER-black?logo=github)](https://github.com/junyangwang0410/amber)
     - Discriminative Task: Object Existence, Attribute, Relationship
     - Generative Task: Object Existence
@@ -43,15 +47,22 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
 
 ## Mitigating
 
-1. **LRV-Instruction** : Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning
+1. **LRV-Instruction** : Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning, (Liu et al.)
    - [![Static Badge](https://img.shields.io/badge/2306.14565-red?logo=arxiv)](http://arxiv.org/abs/2306.14565)  [![](https://img.shields.io/badge/LRV--Instruction-black?logo=github)](https://github.com/FuxiaoLiu/LRV-Instruction)
+   - propose an instruction-tuning dataset which include both postive and negative sample
+   - GAIVE: evaluation approch which use GPT-4
 2. **LURE** : Analyzing and Mitigating Object Hallucination in Large Vision-Language Models, (Zhou et al. 2023b)
    - [![Static Badge](https://img.shields.io/badge/2310.00754-red?logo=arxiv)](https://arxiv.org/pdf/2310.00754) [![](https://img.shields.io/badge/LURE-black?logo=github)](https://github.com/YiyangZhou/LURE)
-3. **HallE-Switch** : Rethinking and Controlling Object Existence Hallucinations in Large Vision-Language Models for Detailed Caption
+3. **HallE-Switch** : Rethinking and Controlling Object Existence Hallucinations in Large Vision-Language Models for Detailed Caption, (Zhai et al. 2023)
    - [![Static Badge](https://img.shields.io/badge/2310.01779-red?logo=arxiv)](https://arxiv.org/pdf/2310.01779)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
-4. **Woodpecker** : Hallucination Correction for Multimodal Large Language Models
+4. **Woodpecker** : Hallucination Correction for Multimodal Large Language Models, (Yin et al.)
    - [![Static Badge](https://img.shields.io/badge/2310.16045-red?logo=arxiv)](https://arxiv.org/abs/2310.16045) [![](https://img.shields.io/badge/Woodpecker-black?logo=github)](https://github.com/BradyFU/Woodpecker)
-5. **LLaVA-RLHF** : Aligning Large Multimodal Models with Factually Augmented RLHF
+   - post-hoc correction
+   - need other visual models
+5. **LLaVA-RLHF** : Aligning Large Multimodal Models with Factually Augmented RLHF, (Sun et al.)
    - [![Static Badge](https://img.shields.io/badge/2309.14525-red?logo=arxiv)](https://arxiv.org/abs/2309.14525) [![](https://img.shields.io/badge/LLaVA--RLHF-black?logo=github)](https://github.com/llava-rlhf/LLaVA-RLHF)
-6. **Volcano** : Mitigating Multimodal Hallucination through Self-Feedback Guided Revision
+   - the first LMM trained with RLHF
+   - propose benchmark: MMHal-Bench
+6. **Volcano** : Mitigating Multimodal Hallucination through Self-Feedback Guided Revision, (Lee et al.)
    - [![Static Badge](https://img.shields.io/badge/2311.07362-red?logo=arxiv)](https://arxiv.org/abs/2311.07362) [![](https://img.shields.io/badge/Volcano-black?logo=github)](https://github.com/kaistAI/Volcano)
+   - self-feedback, according to self-generate natural language feedback to self-revise response
