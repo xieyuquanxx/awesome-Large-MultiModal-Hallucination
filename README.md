@@ -1,6 +1,7 @@
 # Large MultiModal Model Hallucination😵
 
-LMM hallucination refers to occasional instances where LMMs generate content that appears plausible but deviates from or conflicts with the provided image.
+LMM hallucination refers to occasional instances where LMMs generate content that appears plausible but deviates from or conflicts with the provided image. 
+LMMs tend to rely more on their own parametric knowledge than on provided visual features, causing them to respond with guesses and generate multimodal hallucinations.
 
 In the MLLM community, we've developed methods for detecting, evaluating, and mitigating hallucinations👍.
 
