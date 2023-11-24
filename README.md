@@ -8,11 +8,12 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
 ---
 
 ## Detecting
-
-1. **HaELM** : Evaluation and Analysis of Hallucination in Large Vision-Language Models, (Wang et al. 2023a)
+1. **FDPO**: Detecting and Preventing Hallucinations in Large Vision Language Models, (Gunjal et al. 2023)
+     - [![Static Badge](https://img.shields.io/badge/2308.06394-red?logo=arxiv)](https://arxiv.org/abs/2308.06394)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+2. **HaELM** : Evaluation and Analysis of Hallucination in Large Vision-Language Models, (Wang et al. 2023a)
    - [![Static Badge](https://img.shields.io/badge/2308.15126-red?logo=arxiv)](https://arxiv.org/abs/2308.15126)   [![](https://img.shields.io/badge/HaELM-black?logo=github)](https://github.com/junyangwang0410/HaELM)
    - An automatic MLLM hallucination detection framework, Train LLM to detect
-2. **HallE-Switch** : Rethinking and Controlling Object Existence Hallucinations in Large Vision-Language Models for Detailed Caption, (Zhai et al. 2023)
+3. **HallE-Switch** : Rethinking and Controlling Object Existence Hallucinations in Large Vision-Language Models for Detailed Caption, (Zhai et al. 2023)
    - [![Static Badge](https://img.shields.io/badge/2310.01779-red?logo=arxiv)](https://arxiv.org/pdf/2310.01779v1.pdf) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
 
 ## Evaluating
