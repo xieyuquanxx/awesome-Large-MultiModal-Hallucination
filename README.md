@@ -16,7 +16,7 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
 3. **HallE-Switch** : Rethinking and Controlling Object Existence Hallucinations in Large Vision-Language Models for Detailed Caption, (Zhai et al. 2023)
    - [![Static Badge](https://img.shields.io/badge/2310.01779-red?logo=arxiv)](https://arxiv.org/pdf/2310.01779v1.pdf) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
 4. **SAC$`^3`$** : Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency, (Zhang et al. 2023)
-     - [![Static Badge](https://img.shields.io/badge/2311.01740-red?logo=arxiv)](https://arxiv.org/abs/2311.01740)  [![](https://img.shields.io/badge/HaELM-black?logo=github)](https://github.com/intuit/sac3)
+     - [![Static Badge](https://img.shields.io/badge/2311.01740-red?logo=arxiv)](https://arxiv.org/abs/2311.01740)  [![](https://img.shields.io/badge/SAC$`^3`$-black?logo=github)](https://github.com/intuit/sac3)
    
 
 ## Evaluating
