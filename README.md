@@ -80,20 +80,21 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
    - self-feedback, according to self-generate natural language feedback to self-revise response
 7. **HalluciDoctor**: Mitigating Hallucinatory Toxicity in Visual Instruction Data， (Yu et al.)
    - [![Static Badge](https://img.shields.io/badge/2311.13614-red?logo=arxiv)](https://arxiv.org/abs/2311.13614) [![](https://img.shields.io/badge/HalluciDoctor-black?logo=github)](https://github.com/Yuqifan1117/HalluciDoctor)
-8. **VCD**: Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding
+8. **VCD**: Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding, (Leng et al.)
    - [![Static Badge](https://img.shields.io/badge/2311.16922-red?logo=arxiv)](https://arxiv.org/abs/2311.16922) [![](https://img.shields.io/badge/VCD-black?logo=github)](https://github.com/DAMO-NLP-SG/VCD)
-9. **HA-DPO**: Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization
+   - train-free
+10. **HA-DPO**: Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization
    - [![Static Badge](https://img.shields.io/badge/2311.16839-red?logo=arxiv)](https://arxiv.org/abs/2311.16839) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
-10. Mitigating Hallucination in Visual Language Models with Visual Supervision, (Chen et al.)
+11. Mitigating Hallucination in Visual Language Models with Visual Supervision, (Chen et al.)
     - [![Static Badge](https://img.shields.io/badge/2311.16479-red?logo=arxiv)](https://arxiv.org/abs/2311.16479) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
     - construct a fine-grained vision instruction dataset, **RAI-30k**. It contains multi-modal conversations focusing on specific vision relations in an image.
     - propose a new benchmark: **RAHBench**
     - incorporating SAM in vision instruction tuning process'
-11. **OPERA**: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation, (Huang et al.)
+12. **OPERA**: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation, (Huang et al.)
     - [![Static Badge](https://img.shields.io/badge/2311.17911-red?logo=arxiv)](https://arxiv.org/abs/2311.17911) [![](https://img.shields.io/badge/OPERA-black?logo=github)](https://github.com/shikiw/OPERA)
-12. **FOHE**: Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites, (Wang et al.)
+13. **FOHE**: Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites, (Wang et al.)
     - [![Static Badge](https://img.shields.io/badge/2312.01701-red?logo=arxiv)](https://arxiv.org/abs/2312.01701) [![](https://img.shields.io/badge/FOHE-black?logo=github)](https://github.com/Anonymousanoy/FOHE)
-13. **RLHF-V**: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback
+14. **RLHF-V**: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback
     - [![Static Badge](https://img.shields.io/badge/2312.00849-red?logo=arxiv)](https://arxiv.org/abs/2312.00849) [![](https://img.shields.io/badge/RLHF--V-black?logo=github)](https://github.com/RLHF-V/RLHF-V)
 
 
