@@ -50,6 +50,9 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
     - Discriminative Task: Object Existence, Attribute, Relationship
     - Generative Task: Object Existence
     - LLM-free
+9. Behind the Magic, **MERLIM**: Multi-modal Evaluation Benchmark for Large Image-Language Models, (Villa et al.)
+    - [![Static Badge](https://img.shields.io/badge/2312.02219-red?logo=arxiv)](https://arxiv.org/abs/2312.02219)  [![](https://img.shields.io/badge/MERLIM--(404_now)-black?logo=github)](https://github.com/ojedaf/MERLIM)
+
 
 ---
 
