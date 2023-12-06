@@ -68,7 +68,7 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
 3. **HallE-Switch** : Rethinking and Controlling Object Existence Hallucinations in Large Vision-Language Models for Detailed Caption, (Zhai et al. 2023)
    - [![Static Badge](https://img.shields.io/badge/2310.01779-red?logo=arxiv)](https://arxiv.org/pdf/2310.01779)  ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
 4. **Woodpecker** : Hallucination Correction for Multimodal Large Language Models, (Yin et al.)
-   - [![Static Badge](https://img.shields.io/badge/2310.16045-red?logo=arxiv)](https://arxiv.org/abs/2310.16045) [![](https://img.shields.io/badge/Woodpecker-black?logo=github)](https://github.com/BradyFU/Woodpecker)
+   - [![Static Badge](https://img.shields.io/badge/2310.16045-red?logo=arxiv)](https://arxiv.org/abs/2310.16045) [![](https://img.shields.io/badge/Woodpecker-black?logo=github)](https://github.com/BradyFU/Woodpecker)  [![Static Badge](https://img.shields.io/badge/demo-yellow)](https://f252626b321420bfb1.gradio.live/)
    - [revision] post-hoc correction
    - need other pretrained visual models
 5. **LLaVA-RLHF** : Aligning Large Multimodal Models with Factually Augmented RLHF, (Sun et al.)
