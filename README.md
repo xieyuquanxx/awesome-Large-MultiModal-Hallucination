@@ -94,9 +94,14 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
     - [![Static Badge](https://img.shields.io/badge/2311.17911-red?logo=arxiv)](https://arxiv.org/abs/2311.17911) [![](https://img.shields.io/badge/OPERA-black?logo=github)](https://github.com/shikiw/OPERA)
 12. **FOHE**: Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites, (Wang et al.)
     - [![Static Badge](https://img.shields.io/badge/2312.01701-red?logo=arxiv)](https://arxiv.org/abs/2312.01701) [![](https://img.shields.io/badge/FOHE-black?logo=github)](https://github.com/Anonymousanoy/FOHE)
+    - use ChatGPT to post-hoc correction
 13. **RLHF-V**: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback
     - [![Static Badge](https://img.shields.io/badge/2312.00849-red?logo=arxiv)](https://arxiv.org/abs/2312.00849) [![](https://img.shields.io/badge/RLHF--V-black?logo=github)](https://github.com/RLHF-V/RLHF-V)
     - [RLHF-DPO] 1.4K preference data, natural language feedback
+14. **MOCHa**: Multi-Objective Reinforcement Mitigating Caption Hallucinations, (Ben-Kish et al.)
+    - [![Static Badge](https://img.shields.io/badge/2312.03631-red?logo=arxiv)](https://arxiv.org/abs/2312.03631) [![](https://img.shields.io/badge/Mocha-black?logo=github)](https://github.com/assafbk/mocha_code)
+    - [RLHF]
+
 
 
 
