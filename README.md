@@ -103,6 +103,9 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
     - [RLHF]
 15. **HACL**: Hallucination Augmented Contrastive Learning for Multimodal Large Language Model, (Jiang et al.)
     - [![Static Badge](https://img.shields.io/badge/2312.06968-red?logo=arxiv)](https://arxiv.org/abs/2312.06968) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+16. **Silkie**: Preference Distillation for Large Visual Language Models, (Li et al.)
+    - [![Static Badge](https://img.shields.io/badge/2312.10665-red?logo=arxiv)](https://arxiv.org/abs/2312.10665) [![](https://img.shields.io/badge/Silkie-black?logo=github)](https://github.com/vlf-silkie/VLFeedback)
+
 
 
 
