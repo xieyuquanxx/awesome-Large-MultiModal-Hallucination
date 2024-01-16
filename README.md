@@ -103,8 +103,8 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
     - [![Static Badge](https://img.shields.io/badge/2312.06968-red?logo=arxiv)](https://arxiv.org/abs/2312.06968) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
 16. **Silkie**: Preference Distillation for Large Visual Language Models, (Li et al.)
     - [![Static Badge](https://img.shields.io/badge/2312.10665-red?logo=arxiv)](https://arxiv.org/abs/2312.10665) [![](https://img.shields.io/badge/Silkie-black?logo=github)](https://github.com/vlf-silkie/VLFeedback)
-17. Reducing Hallucinations: Enhancing VQA for Flood Disaster Damage Assessment with Visual Contexts
-     - [![Static Badge](https://img.shields.io/badge/2312.13848-red?logo=arxiv)](https://arxiv.org/abs/2312.13848) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+17. **MMCot**: Multimodal Chain-of-Thought Reasoning in Language Models, (Zhang et al.)
+     - [![Static Badge](https://img.shields.io/badge/2302.00923-red?logo=arxiv)](https://arxiv.org/abs/2302.00923) [![](https://img.shields.io/badge/mm--cot-black?logo=github)](https://github.com/amazon-science/mm-cot)
      - [CoT]
 
 
