@@ -55,7 +55,7 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
 
 ## Mitigating
 
-1. **LRV-Instruction**: Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning, (Liu et al.)
+1. **LRV-Instruction**: Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning, (Liu et al. ICLR2024)
    - [![Static Badge](https://img.shields.io/badge/2306.14565-red?logo=arxiv)](http://arxiv.org/abs/2306.14565)  [![](https://img.shields.io/badge/LRV--Instruction-black?logo=github)](https://github.com/FuxiaoLiu/LRV-Instruction)
    - [dataset] propose an instruction-tuning dataset that includes both positive and negative sample
    - _GAIVE_: evaluation approach which uses GPT-4
