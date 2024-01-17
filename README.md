@@ -59,7 +59,7 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
    - [![Static Badge](https://img.shields.io/badge/2306.14565-red?logo=arxiv)](http://arxiv.org/abs/2306.14565)  [![](https://img.shields.io/badge/LRV--Instruction-black?logo=github)](https://github.com/FuxiaoLiu/LRV-Instruction)
    - [dataset] propose an instruction-tuning dataset that includes both positive and negative sample
    - _GAIVE_: evaluation approach which uses GPT-4
-2. **LURE**: Analyzing and Mitigating Object Hallucination in Large Vision-Language Models, (Zhou et al. 2023b)
+2. **LURE**: Analyzing and Mitigating Object Hallucination in Large Vision-Language Models, (Zhou et al. ICLR2024)
    - [![Static Badge](https://img.shields.io/badge/2310.00754-red?logo=arxiv)](https://arxiv.org/pdf/2310.00754) [![](https://img.shields.io/badge/LURE-black?logo=github)](https://github.com/YiyangZhou/LURE) 
    - [post-hoc revision] train a revision model to detect and correct hallucinated objects in the base model’s response. 
 3. **HallE-Switch**: Rethinking and Controlling Object Existence Hallucinations in Large Vision-Language Models for Detailed Caption, (Zhai et al. 2023)
