@@ -106,6 +106,10 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
 17. **MMCot**: Multimodal Chain-of-Thought Reasoning in Language Models, (Zhang et al.)
      - [![Static Badge](https://img.shields.io/badge/2302.00923-red?logo=arxiv)](https://arxiv.org/abs/2302.00923) [![](https://img.shields.io/badge/mm--cot-black?logo=github)](https://github.com/amazon-science/mm-cot)
      - [CoT]
+18. **KAM-CoT**: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning, (Mondal et al. AAAI 2024)
+    - [![Static Badge](https://img.shields.io/badge/2401.12863-red?logo=arxiv)](https://arxiv.org/abs/2401.12863) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+    - [CoT]
+
 
 
 
