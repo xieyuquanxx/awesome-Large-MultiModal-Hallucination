@@ -21,6 +21,8 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
    - An automatic MLLM hallucination detection framework, Train LLM to detect
 3. **HallE-Switch**: Rethinking and Controlling Object Existence Hallucinations in Large Vision-Language Models for Detailed Caption, (Zhai et al. 2023)
    - [![Static Badge](https://img.shields.io/badge/2310.01779-red?logo=arxiv)](https://arxiv.org/pdf/2310.01779v1.pdf) [![](https://img.shields.io/badge/HallE_Switch-black?logo=github)](https://github.com/bronyayang/HallE_Switch)
+4. Unified Hallucination Detection for Multimodal Large Language Models, (Chen et al.)
+   - [![Static Badge](https://img.shields.io/badge/2402.03190-red?logo=arxiv)](https://arxiv.org/abs/2402.03190)   [![](https://img.shields.io/badge/EasyDetect-black?logo=github)](https://github.com/OpenKG-ORG/EasyDetect)
 
 ## Evaluating
 
@@ -49,6 +51,10 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
     - LLM-free
 8. Behind the Magic, **MERLIM**: Multi-modal Evaluation Benchmark for Large Image-Language Models, (Villa et al.)
     - [![Static Badge](https://img.shields.io/badge/2312.02219-red?logo=arxiv)](https://arxiv.org/abs/2312.02219)  [![](https://img.shields.io/badge/MERLIM--(404_now)-black?logo=github)](https://github.com/ojedaf/MERLIM)
+9. Visually Dehallucinative Instruction Generation: Know What You Don't Know, (Cha et al.)
+    - [![Static Badge](https://img.shields.io/badge/2402.09717-red?logo=arxiv)](https://arxiv.org/abs/2402.09717) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+10. The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs, (Han et al.)
+    - [![Static Badge](https://img.shields.io/badge/2402.03757-red?logo=arxiv)](https://arxiv.org/abs/2402.03757)  [![](https://img.shields.io/badge/CorrelationQA-black?logo=github)](https://github.com/MasaiahHan/CorrelationQA)
 
 
 ---
@@ -109,6 +115,14 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
 18. **KAM-CoT**: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning, (Mondal et al. AAAI 2024)
     - [![Static Badge](https://img.shields.io/badge/2401.12863-red?logo=arxiv)](https://arxiv.org/abs/2401.12863) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
     - [CoT]
+19. Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance, (Zhao et al.)
+    - [![Static Badge](https://img.shields.io/badge/2402.08680-red?logo=arxiv)](https://arxiv.org/abs/2402.08680) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+20. ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling, (Yan et al.)
+    - [![Static Badge](https://img.shields.io/badge/2402.06118-red?logo=arxiv)](https://arxiv.org/abs/2402.06118) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+21. **EFUF**: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models, (Xing et al.)
+    - [![Static Badge](https://img.shields.io/badge/2402.09801-red?logo=arxiv)](https://arxiv.org/abs/2402.09801) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+22. Skip \n: A Simple Method to Reduce Hallucination in Large Vision-Language Models, (Han et al.)
+    - [![Static Badge](https://img.shields.io/badge/2402.03190-red?logo=arxiv)](https://arxiv.org/abs/2402.03190) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
 
 
 
