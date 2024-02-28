@@ -117,16 +117,14 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
     - [CoT]
 19. Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance, (Zhao et al.)
     - [![Static Badge](https://img.shields.io/badge/2402.08680-red?logo=arxiv)](https://arxiv.org/abs/2402.08680) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
-20. ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling, (Yan et al.)
+20. **ViGoR**: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling, (Yan et al.)
     - [![Static Badge](https://img.shields.io/badge/2402.06118-red?logo=arxiv)](https://arxiv.org/abs/2402.06118) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
 21. **EFUF**: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models, (Xing et al.)
     - [![Static Badge](https://img.shields.io/badge/2402.09801-red?logo=arxiv)](https://arxiv.org/abs/2402.09801) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
-22. Skip \n: A Simple Method to Reduce Hallucination in Large Vision-Language Models, (Han et al.)
-    - [![Static Badge](https://img.shields.io/badge/2402.03190-red?logo=arxiv)](https://arxiv.org/abs/2402.03190) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
-
-
-
-
-
-
-
+22. **Skip \n**: A Simple Method to Reduce Hallucination in Large Vision-Language Models, (Han et al.)
+    - [![Static Badge](https://img.shields.io/badge/2402.03190-red?logo=arxiv)](https://arxiv.org/abs/2402.01345) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+23. **Less is More**: Mitigating Multimodal Hallucination from an EOS Decision Perspective, (Yue et al.)
+    - [![Static Badge](https://img.shields.io/badge/2402.14545-red?logo=arxiv)](https://arxiv.org/abs/2402.14545) [![](https://img.shields.io/badge/less--is--more-black?logo=github)](https://github.com/yuezih/less-is-more)
+    - overly detailed training data can lead to model output beyond visual perception limits, thus exhibiting hallucinations
+    - propose a **learning objective** that reduces hallucinations by learning from regular instruction data
+    - propose a **data filtering strategy** that prevents harmful training data from exacerbating model hallucinations
