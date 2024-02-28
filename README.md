@@ -55,8 +55,10 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
     - [![Static Badge](https://img.shields.io/badge/2402.09717-red?logo=arxiv)](https://arxiv.org/abs/2402.09717) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
 10. The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs, (Han et al.)
     - [![Static Badge](https://img.shields.io/badge/2402.03757-red?logo=arxiv)](https://arxiv.org/abs/2402.03757)  [![](https://img.shields.io/badge/CorrelationQA-black?logo=github)](https://github.com/MasaiahHan/CorrelationQA)
-
-
+11. **Hal-Eval**: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models, (Jiang et al.)
+    - [![Static Badge](https://img.shields.io/badge/2402.15721-red?logo=arxiv)](https://arxiv.org/abs/2402.15721) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+12. Visual Hallucinations of Multi-modal Large Language Models, (Huang et al.)
+    - [![Static Badge](https://img.shields.io/badge/2402.14683-red?logo=arxiv)](https://arxiv.org/abs/2402.14683)  [![](https://img.shields.io/badge/VHTest-black?logo=github)](https://github.com/wenhuang2000/VHTest)
 ---
 
 ## Mitigating
@@ -128,3 +130,5 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
     - overly detailed training data can lead to model output beyond visual perception limits, thus exhibiting hallucinations
     - propose a **learning objective** that reduces hallucinations by learning from regular instruction data
     - propose a **data filtering strategy** that prevents harmful training data from exacerbating model hallucinations
+24. Seeing is Believing: Mitigating Hallucination in Large Vision-Language Models via CLIP-Guided Decoding, (Deng et al.)
+     - [![Static Badge](https://img.shields.io/badge/2402.15300-red?logo=arxiv)](https://arxiv.org/abs/2402.15300) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
