@@ -59,6 +59,11 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
     - [![Static Badge](https://img.shields.io/badge/2402.15721-red?logo=arxiv)](https://arxiv.org/abs/2402.15721) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
 12. Visual Hallucinations of Multi-modal Large Language Models, (Huang et al.)
     - [![Static Badge](https://img.shields.io/badge/2402.14683-red?logo=arxiv)](https://arxiv.org/abs/2402.14683)  [![](https://img.shields.io/badge/VHTest-black?logo=github)](https://github.com/wenhuang2000/VHTest)
+13. **PhD**: A Prompted Visual Hallucination Evaluation Dataset, (Liu et al.)
+    - [![Static Badge](https://img.shields.io/badge/2403.11116-red?logo=arxiv)](https://arxiv.org/abs/2403.11116)  [![](https://img.shields.io/badge/IntrinsicHallu-black?logo=github)](https://github.com/jiazhen-code/IntrinsicHallu)
+
+
+
 ---
 
 ## Mitigating
@@ -136,5 +141,14 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
      - [![Static Badge](https://img.shields.io/badge/2402.19405-red?logo=arxiv)](https://arxiv.org/abs/2402.19405) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
 26. **IBD**: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding, (Zhu et al.)
      - [![Static Badge](https://img.shields.io/badge/2402.18476-red?logo=arxiv)](https://arxiv.org/abs/2402.18476) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+27. **Pensieve**: Retrospect-then-Compare mitigates Visual Hallucination, (Yang et al.)
+    - [![Static Badge](https://img.shields.io/badge/2403.14401-red?logo=arxiv)](https://arxiv.org/abs/2403.14401) [![](https://img.shields.io/badge/Pensieve-black?logo=github)](https://github.com/DingchenYang99/Pensieve)
+28. **M3ID**: Multi-Modal Hallucination Control by Visual Information Grounding, (Favero et al. _CVPR 2024_)
+     - [![Static Badge](https://img.shields.io/badge/2403.14003-red?logo=arxiv)](https://arxiv.org/abs/2403.14003) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+29. What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models, (Kim et al.)
+    - [![Static Badge](https://img.shields.io/badge/2403.13513-red?logo=arxiv)](https://arxiv.org/abs/2403.13513) [![](https://img.shields.io/badge/Counterfactual--Inception-black?logo=github)](https://github.com/IVY-LVLM/Counterfactual-Inception) 
+30. Mitigating Dialogue Hallucination for Large Multi-modal Models via Adversarial Instruction Tuning, (Park et al.)
+    - [![Static Badge](https://img.shields.io/badge/2403.10492-red?logo=arxiv)](https://arxiv.org/abs/2403.10492) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+
     
 
